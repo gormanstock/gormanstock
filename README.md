@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gormanstock
-- 👀 I’m interested in coding/data analysis
-- 💞️ I’m looking to collaborate on anything  
 - 📫 How to reach me gormanstock@gmail.com
 
 <!---
