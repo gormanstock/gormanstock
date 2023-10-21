@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gormanstock
 - 📫 How to reach me gormanstock@gmail.com
+- 🐢 I like turtles
 
 <!---
 gormanstock/gormanstock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
